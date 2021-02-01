@@ -1,0 +1,294 @@
+--------------------------------------------------------------------------------------
+             This card details are generated from vccgen.com              
+--------------------------------------------------------------------------------------
+
+CARD BRAND : MASTERCARD
+CARD NUMBER :2221560193003581
+NAME : Krishna Cheema
+ADDRESS : Municipal Market, Outer Circle Road, Connaught Place Bangalore
+COUNTRY : India
+CVV/CVV2 : 863
+Money Range ($) : 500
+EXPIRY DATE : 07/21
+
+CARD BRAND : MASTERCARD
+CARD NUMBER :2221055104291029
+NAME : Ekbal Bhandari
+ADDRESS : 1/536-a, Behal Sahib Street, Kashmere Gate Delhi
+COUNTRY : India
+CVV/CVV2 : 730
+Money Range ($) : 500
+EXPIRY DATE : 12/23
+
+CARD BRAND : PRIVATE LABEL
+CARD NUMBER :926398520485730
+NAME : Beau Kilback
+ADDRESS : Davidson Street PORTLAND ROADS, Queensland(QLD), 4871
+COUNTRY : Australia
+CVV/CVV2 : 879
+Money Range ($) : 500
+EXPIRY DATE : 01/22
+
+CARD BRAND : MASTERCARD
+CARD NUMBER :2378082554658755
+NAME : অনন্ত শেখ
+ADDRESS : 100 bedded district hospital, narshingdi, narshingdi, 1600 Dhaka, Dhaka, 1600
+COUNTRY : Bangladesh
+CVV/CVV2 : 767
+Money Range ($) : 500
+EXPIRY DATE : 11/21
+
+CARD BRAND : PRIVATE LABEL
+CARD NUMBER :926346162644999
+NAME : Horácio Fernandes
+ADDRESS : Blanshard Victoria, British Columbia(BC), V8W 2H9
+COUNTRY : Canada
+CVV/CVV2 : 507
+Money Range ($) : 500
+EXPIRY DATE : 07/22
+
+CARD BRAND : UK FUEL CARD
+CARD NUMBER :708291931996078
+NAME : Ernst Brunner
+ADDRESS : Lin Hai Shi Shao Jia Du Jie Dao Xia Yang Zhi Cun Hang Chang Chuan Chang TaiZhou - LinHaiShi, Zhejiang, 317006
+COUNTRY : China
+CVV/CVV2 : 244
+Money Range ($) : 500
+EXPIRY DATE : 11/22
+
+CARD BRAND : MASTERCARD
+CARD NUMBER :2221664762970764
+NAME : Abril Rosa
+ADDRESS : Rua Araxá 889 Contagem, Minas Gerais(MG), 32110-200
+COUNTRY : Brazil
+CVV/CVV2 : 220
+Money Range ($) : 500
+EXPIRY DATE : 08/21
+
+CARD BRAND : VISA
+CARD NUMBER :4556720952099136
+NAME : Giovanni Vogel
+ADDRESS : Yu Lan Lu 8hao 1032shi City Area - PuDongXin District, Shanghai, 201204
+COUNTRY : China
+CVV/CVV2 : 784
+Money Range ($) : 500
+EXPIRY DATE : 05/21
+
+CARD BRAND : VISA
+CARD NUMBER :4929434612265505
+NAME : Elroy Champlin
+ADDRESS : Kopkes Road PITFIELD, Victoria(VIC), 3351
+COUNTRY : Australia
+CVV/CVV2 : 823
+Money Range ($) : 500
+EXPIRY DATE : 02/23
+
+CARD BRAND : VISA RETIRED
+CARD NUMBER :4024007181486
+NAME : Abril Meireles
+ADDRESS : Queens Bay Slocan, British Columbia(BC), V0G 2C0
+COUNTRY : Canada
+CVV/CVV2 : 90
+Money Range ($) : 500
+EXPIRY DATE : 11/22
+
+CARD BRAND : VISA
+CARD NUMBER :4129665783562802
+NAME : Archibald Casper
+ADDRESS : 436 University Street Seattle, Washington(WA), 98133
+COUNTRY : United_State
+CVV/CVV2 : 305
+Money Range ($) : 500
+EXPIRY DATE : 03/23
+
+CARD BRAND : American Express
+CARD NUMBER :377537795279641
+NAME : Antwon Murphy
+ADDRESS : Clearview Drive Greenwood Village, Colorado(CO), 80111
+COUNTRY : United_State
+CVV/CVV2 : 459
+Money Range ($) : 500
+EXPIRY DATE : 01/22
+
+CARD BRAND : VISA
+CARD NUMBER :4929502222634904
+NAME : Freddy Baumbach
+ADDRESS : John Calvin Drive Hickory Hills, Illinois(IL), 60457
+COUNTRY : America
+CVV/CVV2 : 144
+Money Range ($) : 500
+EXPIRY DATE : 01/22
+
+CARD BRAND : Jcb Card
+CARD NUMBER :352245537259793
+NAME : Luciana Batista
+ADDRESS : Queens Bay Slocan, British Columbia(BC), V0G 2C0
+COUNTRY : Canada
+CVV/CVV2 : 361
+Money Range ($) : 500
+EXPIRY DATE : 06/21
+
+CARD BRAND : VISA
+CARD NUMBER :4716103644933524
+NAME : Chirag Basu
+ADDRESS : Vaishali, Main Road, Pitampura Delhi
+COUNTRY : India
+CVV/CVV2 : 277
+Money Range ($) : 500
+EXPIRY DATE : 10/22
+
+CARD BRAND : PHH FUEL CARD
+CARD NUMBER :707232276092686
+NAME : রহমত খান
+ADDRESS : flat #d-3, road #8/a, dhanmondi r/a, 1209 Dhaka, Dhaka, 1209
+COUNTRY : Bangladesh
+CVV/CVV2 : 973
+Money Range ($) : 500
+EXPIRY DATE : 10/23
+
+CARD BRAND : VISA
+CARD NUMBER :4505422912738745
+NAME : Balaji Bali
+ADDRESS : 101-102 1st Floor, Partap Chamber, Gurudwara Road Delhi
+COUNTRY : India
+CVV/CVV2 : 407
+Money Range ($) : 500
+EXPIRY DATE : 07/23
+
+CARD BRAND : VISA
+CARD NUMBER :4532187778737704
+NAME : Gisela Studer
+ADDRESS : Jian Guo Lu Jin Di Guo Ji Hua Yuan D1-16a City Area - ChaoYang District, Beijing, 100022
+COUNTRY : China
+CVV/CVV2 : 258
+Money Range ($) : 500
+EXPIRY DATE : 02/21
+
+CARD BRAND : MASTERCARD
+CARD NUMBER :2613466388667295
+NAME : Ekbal Bhandari
+ADDRESS : 101-102 1st Floor, Partap Chamber, Gurudwara Road Delhi
+COUNTRY : India
+CVV/CVV2 : 853
+Money Range ($) : 500
+EXPIRY DATE : 01/24
+
+CARD BRAND : ELO
+CARD NUMBER :509095785542792
+NAME : হাসিন তাবাসসুম
+ADDRESS : Rahman Mansion (4th Floor), 161, Motijheel C/a Dhaka, Dhaka,
+COUNTRY : Bangladesh
+CVV/CVV2 : 719
+Money Range ($) : 500
+EXPIRY DATE : 05/23
+
+CARD BRAND : MASTERCARD
+CARD NUMBER :2720938725274746
+NAME : Ana Stadelmann
+ADDRESS : Lin Hai Shi Shao Jia Du Jie Dao Xia Yang Zhi Cun Hang Chang Chuan Chang TaiZhou - LinHaiShi, Zhejiang, 317006
+COUNTRY : China
+CVV/CVV2 : 540
+Money Range ($) : 500
+EXPIRY DATE : 01/22
+
+CARD BRAND : CHJONES FUEL CARD
+CARD NUMBER :789670004190408
+NAME : ফাহমেদা খান
+ADDRESS : combined military hospital, chittagong cantonment, 1206 Dhaka, Dhaka, 1206
+COUNTRY : Bangladesh
+CVV/CVV2 : 381
+Money Range ($) : 500
+EXPIRY DATE : 07/23
+
+CARD BRAND : RED FUEL CARD
+CARD NUMBER :707603098114769
+NAME : Floy Jast
+ADDRESS : Karen Lane Lexington, Kentucky(KY), 40505
+COUNTRY : United_State
+CVV/CVV2 : 960
+Money Range ($) : 500
+EXPIRY DATE : 10/23
+
+CARD BRAND : CHJONES FUEL CARD
+CARD NUMBER :707602125170661
+NAME : Favian Kuhlman
+ADDRESS : Wolf Pen Road San Francisco, California(CA), 94107
+COUNTRY : America
+CVV/CVV2 : 430
+Money Range ($) : 500
+EXPIRY DATE : 09/21
+
+CARD BRAND : VISA
+CARD NUMBER :4916035409517159
+NAME : Faraz Bhatt
+ADDRESS : Shopping Centre, Station Rd, Santacruz (west) Mumbai
+COUNTRY : India
+CVV/CVV2 : 857
+Money Range ($) : 500
+EXPIRY DATE : 09/22
+
+CARD BRAND : ENROUTE
+CARD NUMBER :214945304617051
+NAME : Allen Kilback
+ADDRESS : 436 University Street Seattle, Washington(WA), 98133
+COUNTRY : America
+CVV/CVV2 : 485
+Money Range ($) : 500
+EXPIRY DATE : 12/23
+
+CARD BRAND : Amex Card
+CARD NUMBER :372205638581624
+NAME : Fredrick Marks
+ADDRESS : Karen Lane Lexington, Kentucky(KY), 40505
+COUNTRY : America
+CVV/CVV2 : 997
+Money Range ($) : 500
+EXPIRY DATE : 10/22
+
+CARD BRAND : PHH FUEL CARD
+CARD NUMBER :707210651423650
+NAME : Eduard Steinmann
+ADDRESS : Chang Tian Zhen Chang Sheng Bei Lu 8hao MeiZhou - PingYuanCounty, Guangdong, 514639
+COUNTRY : China
+CVV/CVV2 : 262
+Money Range ($) : 500
+EXPIRY DATE : 12/22
+
+CARD BRAND : PHH FUEL CARD
+CARD NUMBER :707233587206601
+NAME : রিফাত তাসনীম
+ADDRESS : flat #d-3, road #8/a, dhanmondi r/a, 1209 Dhaka, Dhaka, 1209
+COUNTRY : Bangladesh
+CVV/CVV2 : 197
+Money Range ($) : 500
+EXPIRY DATE : 11/23
+
+CARD BRAND : MASTERCARD
+CARD NUMBER :5148423042421426
+NAME : Jerrod Kunze
+ADDRESS : 436 University Street Seattle, Washington(WA), 98133
+COUNTRY : America
+CVV/CVV2 : 621
+Money Range ($) : 500
+EXPIRY DATE : 04/22
+
+--------------------------------------------------------------------------------------
+                 	       MORE TOOLS                            
+--------------------------------------------------------------------------------------
+
+1. SINGLE VALID VISA CARD GENERATOR:
+https://www.vccgen.com/visa-card-generator
+
+2. BULK VALID VISA CARD GENERATOR:
+https://www.vccgen.com/visa-card-generator-bulk
+
+
+--------------------------------------------------------------------------------------
+             	           DISCLAIMER                                 
+--------------------------------------------------------------------------------------
+Credit card numbers and details generated from Vccgen.com
+are VALID credit card numbers which follow the rule formula of Luhn Algorithm.
+These credit cards must NOT be used for harming or deceiving peoples.
+These credit cards are solely for educational purpose only. Use at your own risk!
+
+ --------------------------------------------------------------------------------------
